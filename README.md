@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on an Ecommerce app
-- 🌱 I’m currently learning mobile development with flutter
+- 🔭 I’m currently working on an Ecommerce app, weatherapp 
+- 🌱 I’m a mobile app developer using flutter
 - 👯 I’m looking to collaborate on any mobile application project
 
 
